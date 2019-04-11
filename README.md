@@ -12,5 +12,7 @@ Please enter your email address: <user's email address>
 Type your password and press enter: <user's email password>
 
 Please enter the receiving email address: <recipient email address>
+  
 Enter the UR for the desired Github respository: <Github URL>
+  
 Enter the name of the branch you would like to scan: <branch name>
